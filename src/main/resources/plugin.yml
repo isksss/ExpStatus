@@ -1,0 +1,4 @@
+name: ExpStatus
+version: '1.0-SNAPSHOT'
+main: dev.isksss.mc.expStatus.ExpStatus
+api-version: '1.21'
